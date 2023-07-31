@@ -4,7 +4,6 @@ The Payroll Comparison Tool is a Python-based application that helps human resou
 
 ![Payroll Comparison Tool Screenshot](payroll.png)
 
-
 ## Features
 
 - **User-Friendly Interface**: The tool provides an intuitive graphical interface to easily load and compare payroll datasets.
