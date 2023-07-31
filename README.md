@@ -3,7 +3,7 @@
 The Payroll Comparison Tool is a Python-based application that helps human resources and payroll professionals efficiently compare two sets of payroll data. It enables users to identify differences in salary components, allowances, and other benefits between two payroll periods, making the payroll auditing process faster and more manageable.
 
 ![Payroll Comparison Tool Screenshot](payroll.png)
-)
+
 
 ## Features
 
