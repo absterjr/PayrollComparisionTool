@@ -33,13 +33,13 @@ The Payroll Comparison Tool is a GUI-based application developed in Python using
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/payroll-comparison-tool.git
+   git clone https://github.com/absterjr/PayrollComparisionTool.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd payroll-comparison-tool
+   cd PayrollComparisionTool
    ```
 
 3. Install the required dependencies (see [Dependencies](#dependencies) section).
@@ -49,13 +49,13 @@ The Payroll Comparison Tool is a GUI-based application developed in Python using
 1. Run the application:
 
    ```
-   python payroll_comparison_tool.py
+   python payroll.py
    ```
 
 2. Load the previous payroll dataset using the "Load Previous Payroll" button.
-3. Load the current payroll dataset using the "Load Current Payroll" button.
+3. Load the payroll dataset using the "Load Current Payroll" button.
 4. Select the comparison type from the available options (e.g., Basic Pay, HRA, DA, Perks, CMPF, CMPS, Employee IDs).
-5. Configure any specific thresholds (e.g., for HRA or DA comparison) if applicable.
+5. If applicable, Configure any specific thresholds (e.g., for HRA or DA comparison).
 6. Click the corresponding "Compare" button to perform the comparison.
 7. The results will be displayed in a new window, and you can save the comparison data as an Excel file.
 
