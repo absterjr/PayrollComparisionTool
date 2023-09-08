@@ -41,7 +41,7 @@ To use the Payroll Comparison Tool, follow these installation steps:
 4. Install the required dependencies:
 
    ```
-   pip install pandas numpy pillow openpyxl tk
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -97,7 +97,11 @@ Follow these steps to create the executable:
    Ensure you are in the project directory and install the necessary dependencies using `pip`:
 
    ```bash
-   pip install pandas numpy pillow pyinstaller openpyxl tk
+   pip install -r requirements.txt
+   ```
+
+   ```bash
+   pip install pyinstaller
    ```
 
 3. **Create Standalone Executable**
